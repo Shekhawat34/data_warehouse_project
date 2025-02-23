@@ -32,8 +32,8 @@
 --  - The procedure `silver.load_silver` should be executed periodically
 --    to refresh the `silver` layer with the latest cleaned and transformed data.
 --
--- Author: [Your Name]
--- Date: [YYYY-MM-DD]
+-- Author: Lokender Singh
+-- Date: 23-02-2024
 --------------------------------------------------------------------------------
 */
 
